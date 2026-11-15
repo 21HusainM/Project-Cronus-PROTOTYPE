@@ -1,0 +1,6 @@
+{
+  "name": "Orbital Dynamics & Entry Engineering Simulator",
+  "description": "High-fidelity 2D space mission engineering, flight dynamics, orbital mechanics, and atmospheric entry simulator grounded in published NASA equations.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
